@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kazubito712/kazubito712/main/banner.png" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/kazubito712/kazubito712/blob/main/banner.png" alt="banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Ngô Quốc Linh</h1>
